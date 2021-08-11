@@ -20,6 +20,7 @@
   "homepage": "https://github.com/esherrow/food-festival#readme",
   "devDependencies": {
     "webpack": "^5.49.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
